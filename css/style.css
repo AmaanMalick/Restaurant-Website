@@ -334,7 +334,8 @@ body{
 .food-description .food-price{
     font-size: 1.5rem;
     font-weight: 700;
-    color: #0a9e80;
+    color: red;
+    /* color: #0a9e80; */
 }
 
 /* ################## testimonial styling   ##################### */
